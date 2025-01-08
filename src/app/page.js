@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.formCube}>
-        <form action="https://formspree.io/f/xldeoywl" method="POST" className={styles.form}>
+        <form action="" method="POST" className={styles.form}>
           <input type="text" id="name" name="name" placeholder="Name:" className={styles.input} />
 
           <input type="email" id="email" name="email" placeholder="Email address:" className={styles.input} />
